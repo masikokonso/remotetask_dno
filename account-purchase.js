@@ -6,9 +6,9 @@ const state = {
     usdToKsh: 100.0,
     currentAmount: 0,
     prices: {
-        beginner: 3.00,
-        average: 4.50,
-        expert: 6.00
+        beginner: 1.50,
+        average: 2.50,
+        expert: 4.00
     }
 };
 
